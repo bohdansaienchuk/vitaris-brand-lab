@@ -1,0 +1,14 @@
+{
+  "radius": {
+    "none": 0,
+    "small": 8,
+    "medium": 16,
+    "large": 24,
+    "xl": 32,
+    "twoXl": 48,
+    "full": 9999
+  },
+  "metadata": {
+    "unit": "px"
+  }
+}

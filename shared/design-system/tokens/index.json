@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "sources": {
+    "colorPrimitives": "../colors/primitives.json",
+    "semanticColors": "../colors/semantic.json",
+    "typography": "../typography/typography.json",
+    "spacing": "../spacing/spacing.json",
+    "radius": "../radius/radius.json",
+    "effects": "../effects/effects.json",
+    "layout": "../layout/layout.json"
+  },
+  "resolutionOrder": [
+    "colorPrimitives",
+    "spacing",
+    "radius",
+    "effects",
+    "typography",
+    "layout",
+    "brandOverrides",
+    "semanticColors"
+  ],
+  "brandOverrides": {
+    "pattern": "../../../brands/{product-id}/design/brand-tokens.json",
+    "nullBehavior": "use-semantic-fallback"
+  },
+  "css": {
+    "customPropertyPrefix": "vbl"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "scope": "shared",
+  "audit": {
+    "date": "2026-10-14",
+    "assetCount": 3
+  },
+  "distribution": {
+    "status": "local-only-unconfirmed-rights",
+    "trackedInGit": false
+  },
+  "assets": [
+    {
+      "id": "vitaris-corporate-logo-001",
+      "filename": "Vitaris logo_сurv.png",
+      "path": "shared/assets/logos/originals/Vitaris logo_сurv.png",
+      "type": "corporate-logo",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 533,
+        "height": 177,
+        "aspectRatio": 3.011299,
+        "colorMode": "RGBA",
+        "hasTransparency": true,
+        "sizeBytes": 9860,
+        "sha256": "90f945363cb51844815bcdeeeee82e5b4cff7f5f7e982231dcad61b9faea56c5"
+      },
+      "quality": {
+        "technicalSuitability": "limited-for-large-display",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "vitaris-corporate-logo-002",
+      "filename": "Vitaris logo_сurv.svg",
+      "path": "shared/assets/logos/originals/Vitaris logo_сurv.svg",
+      "type": "corporate-logo",
+      "format": "svg",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/svg+xml",
+        "width": null,
+        "height": null,
+        "aspectRatio": 3.022001,
+        "colorMode": "vector",
+        "hasTransparency": true,
+        "sizeBytes": 6700,
+        "sha256": "c8243bd28c0ad974588fb33ca05c89260aeb4e1b590accf871b012e43ef4dd96",
+        "viewBox": "0 0 255.48 84.54"
+      },
+      "quality": {
+        "technicalSuitability": "scalable",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "vitaris-corporate-logo-003",
+      "filename": "viber-logo-1024*512-02.png",
+      "path": "shared/assets/logos/originals/viber-logo-1024*512-02.png",
+      "type": "corporate-logo",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 4267,
+        "height": 2134,
+        "aspectRatio": 1.999531,
+        "colorMode": "RGB",
+        "hasTransparency": false,
+        "sizeBytes": 114400,
+        "sha256": "0e5a1e7d622290823b827654142d062e3c7e598ab43e6416c8afc372191319aa"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-with-opaque-background",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    }
+  ]
+}

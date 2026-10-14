@@ -9,8 +9,12 @@ pnpm-debug.log*
 exports/png/*
 exports/pdf/*
 
-# Source assets under shared/assets/ and brands/*/assets/ are intentionally tracked.
-# Review binary file sizes before adding them to Git.
+# Source assets are tracked only after usage rights are confirmed.
+# Current audited originals remain local until that confirmation exists.
+/shared/assets/logos/originals/*.png
+/shared/assets/logos/originals/*.svg
+/brands/evomax-balance/assets/packaging/*.png
+/brands/evomax-balance/assets/packaging/*.jpg
 
 # Keep export directories available locally
 !exports/png/.gitkeep

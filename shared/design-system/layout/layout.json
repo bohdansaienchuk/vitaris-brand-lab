@@ -1,0 +1,26 @@
+{
+  "formats": {
+    "verticalCard": {
+      "canvas": { "width": 1080, "height": 1920, "unit": "px", "aspectRatio": "9:16" },
+      "safeMargins": {
+        "top": 96,
+        "right": 80,
+        "bottom": 96,
+        "left": 80,
+        "status": "initial-recommendation"
+      },
+      "areas": {
+        "header": { "x": 80, "y": 96, "width": 920, "height": 240 },
+        "content": { "x": 80, "y": 368, "width": 920, "height": 1248 },
+        "footer": { "x": 80, "y": 1648, "width": 920, "height": 176 }
+      },
+      "grid": { "columns": 12, "gutter": 24, "contentWidth": 920 },
+      "sectionSpacing": "{spacing.64}",
+      "status": "initial-recommendation"
+    }
+  },
+  "metadata": {
+    "formatSpecificTokensAreIsolated": true,
+    "typographyAndColorsAreFormatIndependent": true
+  }
+}

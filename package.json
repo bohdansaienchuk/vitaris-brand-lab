@@ -4,6 +4,11 @@
   "private": true,
   "description": "Mobile-first content foundation for Vitaris Nutrition Labs brands",
   "type": "module",
+  "scripts": {
+    "validate:assets": "node scripts/validate-assets.mjs",
+    "validate:assets:strict": "node scripts/validate-assets.mjs --require-local-assets",
+    "validate:design-system": "node scripts/validate-design-system.mjs"
+  },
   "engines": {
     "node": ">=20"
   }

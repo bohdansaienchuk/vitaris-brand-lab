@@ -1,0 +1,41 @@
+{
+  "text": {
+    "primary": { "value": "{color.neutral.950}" },
+    "secondary": { "value": "{color.neutral.700}" },
+    "subtle": { "value": "{color.neutral.600}" },
+    "inverse": { "value": "{color.white}" },
+    "brand": {
+      "value": "{brand.colors.primary}",
+      "fallback": "{color.info}",
+      "status": "temporary-fallback"
+    },
+    "success": { "value": "{color.success}" },
+    "warning": { "value": "{color.warning}" },
+    "error": { "value": "{color.error}" }
+  },
+  "surface": {
+    "background": { "value": "{color.neutral.50}" },
+    "default": { "value": "{color.white}" },
+    "subtle": { "value": "{color.neutral.100}" },
+    "elevated": { "value": "{color.white}" },
+    "brand": {
+      "value": "{brand.colors.background}",
+      "fallback": "{color.neutral.100}",
+      "status": "temporary-fallback"
+    }
+  },
+  "border": {
+    "default": { "value": "{color.neutral.300}" },
+    "subtle": { "value": "{color.neutral.200}" },
+    "strong": { "value": "{color.neutral.600}" },
+    "brand": {
+      "value": "{brand.colors.primary}",
+      "fallback": "{color.info}",
+      "status": "temporary-fallback"
+    }
+  },
+  "metadata": {
+    "referenceSyntax": "{token.path}",
+    "brandFallbacksAreTemporary": true
+  }
+}

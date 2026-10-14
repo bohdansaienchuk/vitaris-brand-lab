@@ -1,0 +1,33 @@
+{
+  "fontFamilies": {
+    "primary": "Inter"
+  },
+  "styles": {
+    "display": {
+      "large": { "fontFamily": "Inter", "fontSize": 104, "fontWeight": 800, "lineHeight": 1.04, "letterSpacing": -1.6 },
+      "medium": { "fontFamily": "Inter", "fontSize": 88, "fontWeight": 800, "lineHeight": 1.06, "letterSpacing": -1.2 }
+    },
+    "heading": {
+      "h1": { "fontFamily": "Inter", "fontSize": 72, "fontWeight": 700, "lineHeight": 1.1, "letterSpacing": -0.8 },
+      "h2": { "fontFamily": "Inter", "fontSize": 60, "fontWeight": 700, "lineHeight": 1.12, "letterSpacing": -0.5 },
+      "h3": { "fontFamily": "Inter", "fontSize": 52, "fontWeight": 700, "lineHeight": 1.15, "letterSpacing": -0.25 }
+    },
+    "subheading": {
+      "default": { "fontFamily": "Inter", "fontSize": 46, "fontWeight": 600, "lineHeight": 1.2, "letterSpacing": 0 }
+    },
+    "body": {
+      "large": { "fontFamily": "Inter", "fontSize": 48, "fontWeight": 400, "lineHeight": 1.4, "letterSpacing": 0 },
+      "default": { "fontFamily": "Inter", "fontSize": 42, "fontWeight": 400, "lineHeight": 1.45, "letterSpacing": 0 },
+      "small": { "fontFamily": "Inter", "fontSize": 36, "fontWeight": 400, "lineHeight": 1.45, "letterSpacing": 0 },
+      "strong": { "fontFamily": "Inter", "fontSize": 42, "fontWeight": 600, "lineHeight": 1.45, "letterSpacing": 0 }
+    },
+    "caption": { "fontFamily": "Inter", "fontSize": 36, "fontWeight": 400, "lineHeight": 1.4, "letterSpacing": 0.1 },
+    "label": { "fontFamily": "Inter", "fontSize": 36, "fontWeight": 500, "lineHeight": 1.25, "letterSpacing": 0.4 }
+  },
+  "metadata": {
+    "fontSizeUnit": "px",
+    "letterSpacingUnit": "px",
+    "targetCanvasWidth": 1080,
+    "minimumRecommendedFontSize": 36
+  }
+}

@@ -1,5 +1,364 @@
 {
   "product_id": "evomax-balance",
-  "assets": []
+  "audit": {
+    "date": "2026-10-14",
+    "assetCount": 14
+  },
+  "distribution": {
+    "status": "local-only-unconfirmed-rights",
+    "trackedInGit": false
+  },
+  "assets": [
+    {
+      "id": "evomax-packaging-001",
+      "filename": "2-Evomax_1-1.png",
+      "path": "assets/packaging/2-Evomax_1-1.png",
+      "type": "product-mockup",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 4000,
+        "height": 3008,
+        "aspectRatio": 1.329787,
+        "colorMode": "RGBA",
+        "hasTransparency": true,
+        "sizeBytes": 1777753,
+        "sha256": "a67c15f16eb85daed7065df1538d7ca6a3036c1668f2d4ff78f04abf685822b0"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-002",
+      "filename": "2-Evomax_2-1.png",
+      "path": "assets/packaging/2-Evomax_2-1.png",
+      "type": "product-mockup",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 4000,
+        "height": 3008,
+        "aspectRatio": 1.329787,
+        "colorMode": "RGBA",
+        "hasTransparency": true,
+        "sizeBytes": 787209,
+        "sha256": "cf7715e35a2ea81a3253f8af9fe0be9d96c4380d201afc7aab371cffa99afe37"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-003",
+      "filename": "2-Evomax_3.png",
+      "path": "assets/packaging/2-Evomax_3.png",
+      "type": "product-mockup",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 3840,
+        "height": 1953,
+        "aspectRatio": 1.966206,
+        "colorMode": "RGBA",
+        "hasTransparency": true,
+        "sizeBytes": 858491,
+        "sha256": "f92d721cada5c93ff1a5a888b44c495bb2b41fad8c9dbcbdfa39f6f4ec0db374"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-004",
+      "filename": "2-Evomax_4-1.png",
+      "path": "assets/packaging/2-Evomax_4-1.png",
+      "type": "product-mockup",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 4000,
+        "height": 3008,
+        "aspectRatio": 1.329787,
+        "colorMode": "RGBA",
+        "hasTransparency": true,
+        "sizeBytes": 1792997,
+        "sha256": "076a0f2fe5bcd293922b31f49d5a8b3787082a2e6fe973476b3af9b7e211c644"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-005",
+      "filename": "2-Evomax_5-1.png",
+      "path": "assets/packaging/2-Evomax_5-1.png",
+      "type": "product-mockup",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 4000,
+        "height": 3008,
+        "aspectRatio": 1.329787,
+        "colorMode": "RGBA",
+        "hasTransparency": true,
+        "sizeBytes": 2289284,
+        "sha256": "7cfa86e3b788d3b2a37da035ff95ffa74abae12389a45d0c6ac9e6c6d0cac8e2"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-006",
+      "filename": "2-Evomax_6-1.png",
+      "path": "assets/packaging/2-Evomax_6-1.png",
+      "type": "product-mockup",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 3840,
+        "height": 1953,
+        "aspectRatio": 1.966206,
+        "colorMode": "RGBA",
+        "hasTransparency": true,
+        "sizeBytes": 1281859,
+        "sha256": "2f7f5fefc157ea01dbf06d455d01930e76352a8b637785fd4d032ec1713e4644"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-007",
+      "filename": "2-Evomax_7-1.png",
+      "path": "assets/packaging/2-Evomax_7-1.png",
+      "type": "product-mockup",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 3840,
+        "height": 1953,
+        "aspectRatio": 1.966206,
+        "colorMode": "RGBA",
+        "hasTransparency": true,
+        "sizeBytes": 1285756,
+        "sha256": "36253a81d702dae4479a2a57aa3b79cc505e60eda4f156e949634613b38ea8d2"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-008",
+      "filename": "2-Evomax_13.png",
+      "path": "assets/packaging/2-Evomax_13.png",
+      "type": "product-mockup",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 3840,
+        "height": 1953,
+        "aspectRatio": 1.966206,
+        "colorMode": "RGBA",
+        "hasTransparency": true,
+        "sizeBytes": 787560,
+        "sha256": "f5ca74efd5d3ba69ae45221ddb8dcf4c05888fb066b3c0080f677557d594ccbd"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-009",
+      "filename": "2-Evomax_14.jpg",
+      "path": "assets/packaging/2-Evomax_14.jpg",
+      "type": "product-mockup",
+      "format": "jpg",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/jpeg",
+        "width": 4000,
+        "height": 3008,
+        "aspectRatio": 1.329787,
+        "colorMode": "RGB",
+        "hasTransparency": false,
+        "sizeBytes": 1051101,
+        "sha256": "6617beedace5ec8b92f635c358656ba90dd5e84d2cb8ad672fd52526538ec7d5"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-010",
+      "filename": "2-Evomax_15.jpg",
+      "path": "assets/packaging/2-Evomax_15.jpg",
+      "type": "product-mockup",
+      "format": "jpg",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/jpeg",
+        "width": 4000,
+        "height": 3008,
+        "aspectRatio": 1.329787,
+        "colorMode": "RGB",
+        "hasTransparency": false,
+        "sizeBytes": 1208869,
+        "sha256": "c89fb539accc9bf91beaab60bbbf4af7a95304bcb9db20a7cc296894cc9721cb"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-011",
+      "filename": "2-Evomax_16.png",
+      "path": "assets/packaging/2-Evomax_16.png",
+      "type": "product-mockup",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 3840,
+        "height": 1953,
+        "aspectRatio": 1.966206,
+        "colorMode": "RGBA",
+        "hasTransparency": true,
+        "sizeBytes": 1158895,
+        "sha256": "b67e91a4f831b32e3c2167ca5e3d62798345a48ab647f00275d0f4fc987cdab9"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-012",
+      "filename": "2-Evomax_17.png",
+      "path": "assets/packaging/2-Evomax_17.png",
+      "type": "product-mockup",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 3840,
+        "height": 1953,
+        "aspectRatio": 1.966206,
+        "colorMode": "RGBA",
+        "hasTransparency": true,
+        "sizeBytes": 2000134,
+        "sha256": "c393d70d4049924f60b96791fa445cc189c0066cd76ec7f75bcb9a75c4220a65"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-013",
+      "filename": "2-Evomax_18.png",
+      "path": "assets/packaging/2-Evomax_18.png",
+      "type": "product-mockup",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 4000,
+        "height": 3008,
+        "aspectRatio": 1.329787,
+        "colorMode": "RGBA",
+        "hasTransparency": true,
+        "sizeBytes": 2632979,
+        "sha256": "1c22f606c94c5213593c19cffcfe5e548a393aa6dd6622e8cc1867e966c6a2ff"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    },
+    {
+      "id": "evomax-packaging-014",
+      "filename": "Evomax_label.png",
+      "path": "assets/packaging/Evomax_label.png",
+      "type": "product-mockup",
+      "format": "png",
+      "description": null,
+      "usage": null,
+      "status": "needs-review",
+      "metadata": {
+        "mimeType": "image/png",
+        "width": 1122,
+        "height": 1402,
+        "aspectRatio": 0.800285,
+        "colorMode": "RGB",
+        "hasTransparency": false,
+        "sizeBytes": 967686,
+        "sha256": "884e01a8bb7e734d92b56cd32383e13641f16cca962a49664dc258eb3103f535"
+      },
+      "quality": {
+        "technicalSuitability": "suitable-for-card-composition",
+        "visualQuality": "needs-visual-review",
+        "approvalStatus": "unconfirmed"
+      }
+    }
+  ]
 }
 

@@ -6,6 +6,13 @@
     "background": null,
     "text": null
   },
+  "gradient": null,
+  "inheritance": {
+    "extends": "shared/design-system/tokens/index.json",
+    "strategy": "deep-merge",
+    "nullBehavior": "use-semantic-fallback"
+  },
+  "status": "pending-brand-validation",
   "additional": {}
 }
 
